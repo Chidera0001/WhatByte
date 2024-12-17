@@ -42,7 +42,7 @@ npm start
 
 ## Dashboard Look
 <p>
-  <img src='public/images/Dash.png' alt='dashboard image'/>
+  <img src='public/images/Dashboard.png' alt='dashboard image'/>
 </p>
 
 ## Technology Stack
